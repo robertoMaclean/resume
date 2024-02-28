@@ -11,6 +11,7 @@ import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
 import Next from "@/icons/next.astro"
+import Nest from "@/icons/nest.astro"
 import { skills } from "@cv"
 
 const SKILLS_ICONS: Record<string, any> = {
@@ -25,10 +26,10 @@ const SKILLS_ICONS: Record<string, any> = {
   GitHub,
   Next,
   Tailwind,
+  Nest,
 }
 ---
-
-<Section title="Habilidades">
+<Section title="Skills">
   <ul>
     {
       skills.map(({ name }) => {

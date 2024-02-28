@@ -1,112 +1,78 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Roberto Mac lean Manríquez",
+    "label": "Full-Stack developer with more than 5 years of experience",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "r.maclean.m@gmail.com",
+    "phone": "+56 999453040",
+    "url": "https://",
+    "summary": "I am a Software Engineer with five years of experience specializing in web development. Passionate about creating efficient and user-friendly web applications, I have a strong foundation in front-end and back-end technologies, coupled with a keen eye for detail.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "2200055",
+      "city": "Viña del Mar",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Roberto Mac lean Manríquez",
+        "url": "https://www.linkedin.com/in/roberto-mac-lean"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "robertoMaclean",
+        "url": "https://github.com/robertoMaclean"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "WITI",
+      "position": "Software Engineer",
+      "startDate": "2022-06-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Development of backend applications for product dispatch to customers. In this job, I used technologies such as Java/Spring Boot/Serverless, Python/Serverless, JavaScript/Nest, Docker, K8S, Postgres, Oracle, MySQL, etc.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Bice Vida",
+      "position": "Software Developer",
+      "startDate": "2020-02-01",
+      "endDate": "2022-05-31",
+      "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",       
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Valparaíso University",
+      "position": "Software Engineer",
+      "startDate": "2018-03-01",
+      "endDate": "2020-01-31",
+      "summary": "Developed a web application for the National Cancer Registry. Responsible for developing the logic for form loading, security using JWT, user profiles, and management, utilizing Java/Spring Boot. Also in charge of developing the front-end of the application using Angular.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "Valparaíso University",
+    "url": "https://uv.cl",
+    "area": "Engineering in Computer Science. Specialization in Software Projects.",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "startDate": "2010-03-01",
+    "endDate": "2018-02-01"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Software Engineering Course",
+    "publisher": "IEEE Access",
+    "releaseDate": "2018-10-18",
+    "url": "https://www.academia.edu/77007843/Exploring_Collaborative_Writing_of_User_Stories_With_Multimodal_Learning_Analytics_A_Case_Study_on_a_Software_Engineering_Course",
+    "summary": "Software engineering is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the software engineering’s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in software engineering students throughmultimodal learning analytics, modeling, and evaluating students’ collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veriﬁed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
   }],
   "skills": [
     {
@@ -120,7 +86,7 @@
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web development", "Frontend" 
       ]
     },
     {
@@ -128,13 +94,6 @@
       "level": "Master",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
@@ -159,6 +118,13 @@
       ]
     },
     {
+      "name": "Postgres",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
@@ -173,7 +139,7 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Nest",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
