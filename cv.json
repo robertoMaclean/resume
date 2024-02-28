@@ -34,6 +34,7 @@
       "startDate": "2022-06-01",
       "endDate": null,
       "summary": "Development of backend applications for product dispatch to customers. In this job, I used technologies such as Java/Spring Boot/Serverless, Python/Serverless, JavaScript/Nest, Docker, K8S, Postgres, Oracle, MySQL, etc.",
+      "url": "",
       "highlights": [
         "Started the company"
       ]
@@ -44,6 +45,7 @@
       "startDate": "2020-02-01",
       "endDate": "2022-05-31",
       "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",       
+      "url": "",
       "highlights": [
         "Started the company"
       ]
@@ -54,6 +56,7 @@
       "startDate": "2018-03-01",
       "endDate": "2020-01-31",
       "summary": "Developed a web application for the National Cancer Registry. Responsible for developing the logic for form loading, security using JWT, user profiles, and management, utilizing Java/Spring Boot. Also in charge of developing the front-end of the application using Angular.",
+      "url": "",
       "highlights": [
         "Started the company"
       ]
