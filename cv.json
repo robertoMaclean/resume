@@ -1,189 +1,158 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Roberto Mac lean Manríquez",
+    "label": "Desarrollador Full-Stack con más de cinco años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "r.maclean.m@gmail.com",
+    "phone": "+56 999453040",
+    "url": "https://",
+    "summary": "Soy Ingeniero de Software con más de cinco años de experiencia, especializado en el desarrollo web. Apasionado por crear aplicaciones eficientes, escalables e intuitivas. Tengo conocimiento solido en desarrollo de software tanto en front-end como en back-end, experiencia en equipos de desarrollo ágil y capacidad de trabajar de manera autónoma y autodidacta",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "2200055",
+      "city": "Viña del Mar",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Roberto Mac lean Manríquez",
+        "url": "https://www.linkedin.com/in/roberto-mac-lean"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "robertoMaclean",
+        "url": "https://github.com/robertoMaclean"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "WITI",
+      "position": "Ingeniero de Software",
+      "startDate": "2022-06-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Development of backend applications for product dispatch to customers. In this job, I used technologies such as Java/Spring Boot/Serverless, Python/Serverless, JavaScript/Nest, Docker, K8S, Postgres, Oracle, MySQL, etc.",
+      "url": "",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Bice Vida",
+      "position": "Ingeniero de Software",
+      "startDate": "2020-02-01",
+      "endDate": "2022-05-31",
+      "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",       
+      "url": "",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Universidad de Valparaíso",
+      "position": "Ingeniero de Software",
+      "startDate": "2018-03-01",
+      "endDate": "2020-01-31",
+      "summary": "Developed a web application for the National Cancer Registry. Responsible for developing the logic for form loading, security using JWT, user profiles, and management, utilizing Java/Spring Boot. Also in charge of developing the front-end of the application using Angular.",
+      "url": "",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "institution": "Universidad de Valparaíso",
+    "url": "https://uv.cl",
+    "area": "Ingeniero Civil en Informática. Especializacion en Proyectos de Software.",
+    "studyType": "Universitario",
+    "startDate": "2010-03-01",
+    "endDate": "2018-02-01"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Software Engineering Course",
+    "publisher": "IEEE Access",
+    "releaseDate": "2018-10-18",
+    "url": "https://www.academia.edu/77007843/Exploring_Collaborative_Writing_of_User_Stories_With_Multimodal_Learning_Analytics_A_Case_Study_on_a_Software_Engineering_Course",
+    "summary": "Software engineering is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the software engineering�s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in software engineering students throughmultimodal learning analytics, modeling, and evaluating students� collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veri�ed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
   }],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web development", "Frontend" 
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web development", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "Postgres",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version control", "Colaboraci�n", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
+      "name": "Nest",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -194,7 +163,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medium"
     }
   ],
   "interests": [{
@@ -206,68 +175,68 @@
   }],
   "references": [{
     "name": "Jane Doe",
-    "reference": "Reference…"
+    "reference": "Reference�"
   }],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Interactive story with programming challenges to travel to Mars",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Choose your own adventure",
+        "In progress"
       ],
       "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "JavaScript programming challenges for every day of December until Christmas",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
+        "+1 million visits",
+        "Multilanguage",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://advent.js/dev"
     },
     {
       "name": "Codember",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Interactive programming game with challenges and secrets",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "+2000 active users",
+        "Challenges for any language"
       ],
       "url": "https://codember.dev"
     },
     {
       "name": "codi.link",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Playground of HTML, CSS and JavaScript code for sharing",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "100k monthly visit",
+        "Developed by the community"
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Pruebas T�cnicas",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "List of technical tests of companies to practice programming",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "100% free",
+        "+500 community solutions"
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
     {
       "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "+15k tickets handed over",
+        "+50k live viewers"
       ],
       "url": "https://miduconf.com"
     }
