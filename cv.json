@@ -241,7 +241,8 @@
       "highlights": [
         "HTML, CSS and Javascript"
       ],
-      "url": "https://github.com/robertoMaclean/motorcyclists-schedule"
+      "url": "https://motorcyclist-schedule.netlify.app",
+      "github": "https://github.com/robertoMaclean/motorcyclists-schedule"
     }
   ]
 }
