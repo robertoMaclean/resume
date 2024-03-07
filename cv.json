@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Roberto Mac lean Manríquez",
-    "label": "Software Engineer with more than five years of experience",
+    "label": "Ingeniero de Software con más de cinco años de experiencia",
     "image": "/me.webp",
     "email": "r.maclean.m@gmail.com",
     "phone": "+56 999453040",
     "url": "https://",
-    "summary": "I am a Software Engineer with five years of experience specializing in web development. Passionate about creating efficient and user-friendly web applications, I have a strong foundation in front-end and back-end technologies, coupled with a keen eye for detail.",
+    "summary": "Soy Ingeniero de Software especializado en el desarrollo web. Apasionado por crear aplicaciones eficientes, intuitivas y escalables. Tengo una base sólida de conocimiento en tecnologías del lado del backend y frontend.",
     "location": {
       "address": "",
       "postalCode": "2200055",
@@ -30,37 +30,37 @@
   "work": [
     {
       "name": "WITI",
-      "position": "Software Engineer",
+      "position": "Ingeniero de Software",
       "startDate": "2022-06-01",
       "endDate": null,
-      "summary": "Development of backend applications for product dispatch to customers. In this job, I used technologies such as Java/Spring Boot/Serverless, Python/Serverless, JavaScript/Nest, Docker, K8S, Postgres, Oracle, MySQL, etc.",
+      "summary": "Diseño e implementación de soluciones de Software para la parte logística de despacho a domicilio de un ecommerce. Algunas de las tecnologías utilizadas durante este periodo son Java/Kotlin/SpringBoot, Javascript/Nest, Oracle, Postgres, AWS, K8S, etc.",
       "url": "",
       "highlights": ["Started the company"]
     },
     {
       "name": "Bice Vida",
-      "position": "Software Developer",
+      "position": "Ingeniero de Software",
       "startDate": "2020-02-01",
       "endDate": "2022-05-31",
-      "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",
+      "summary": "Desarrollo de micro servicios tales como envíos de correos electrónicos utilizando templates, procesos de ETL, gestión de solicitudes de servicio, validación para proceso de entrega de créditos hipotecarios, etc. Durante este periodo se utilizó en su mayoría el lenguaje Python y en menor medida Java y como infraestructura se utilizó AWS mediante el uso de frameworks como Serverless y Terraform.",
       "url": "",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Valparaíso University",
-      "position": "Software Engineer",
+      "name": "Universidad de Valparaíso",
+      "position": "Ingeniero de Software",
       "startDate": "2018-03-01",
       "endDate": "2020-01-31",
-      "summary": "Developed a web application for the National Cancer Registry. Responsible for developing the logic for form loading, security using JWT, user profiles, and management, utilizing Java/Spring Boot. Also in charge of developing the front-end of the application using Angular.",
+      "summary": "Desarrollo de una aplicación web para el Registro Nacional del Cáncer. Encargado de desarrollar la lógica para la carga de formularios, seguridad mediante JWT, períles y gestión de usuarios, mediante el uso de Java/Spring-boot. También, a carío de desarrollar el Front-end de la aplicación mediante Angular.",
       "url": "",
       "highlights": ["Started the company"]
     }
   ],
   "education": [
     {
-      "institution": "Valparaíso University",
+      "institution": "Universidad de Valparaíso",
       "url": "https://uv.cl",
-      "area": "Engineering in Computer Science. Specialization in Software Projects.",
+      "area": "Ingeniería Civil en Informática. Especialización en Projectos de Software.",
       "studyType": "Bachelor",
       "startDate": "2010-03-01",
       "endDate": "2018-02-01"
@@ -68,11 +68,11 @@
   ],
   "publications": [
     {
-      "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Software Engineering Course",
+      "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Ingeniero de Softwareing Course",
       "publisher": "IEEE Access",
       "releaseDate": "2018-10-18",
       "url": "https://www.academia.edu/77007843/Exploring_Collaborative_Writing_of_User_Stories_With_Multimodal_Learning_Analytics_A_Case_Study_on_a_Software_Engineering_Course",
-      "summary": "Software engineering is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the software engineering’s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in software engineering students throughmultimodal learning analytics, modeling, and evaluating students’ collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veriﬁed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
+      "summary": "Ingeniero de Softwareing is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the Ingeniero de Softwareing’s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in Ingeniero de Softwareing students throughmultimodal learning analytics, modeling, and evaluating students’ collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veriﬁed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
     }
   ],
   "skills": [
@@ -170,12 +170,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Ingles",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
@@ -192,55 +192,55 @@
   ],
   "projects": [
     {
-      "name": "Rob's Web Page",
+      "name": "Mi página personal",
       "isActive": true,
-      "description": "My personal web page about my job, interests, hobbies and other things",
+      "description": "Mi pagina personal con algunas de las cosas que me interesan",
       "highlights": [
-        "Information about me, my job, hobbies, etc.",
-        "In progress",
-        "HTML, CSS and Javascript"
+        "Información sobre mi, mis intereses y hobbies",
+        "En progreso",
+        "HTML, CSS y Javascript"
       ],
       "url": "https://rob-maclean.netlify.app",
       "github": "https://github.com/robertoMaclean/rob-mac-web-front"
     },
     {
-      "name": "Rob's Resume",
+      "name": "Currículum de Rob",
       "isActive": true,
-      "description": "My web resume about my work history",
+      "description": "Mi currículum con el historial de mis trabajos",
       "highlights": [
-        "Search Job",
-        "This is a Fork of a midudev minimal resume project",
-        "Astro & Typescript"
+        "Buscar trabajo",
+        "Basado en un proyecto de Midudev",
+        "Astro y Typescript"
       ],
       "url": "https://rob-resume.netlify.app",
       "github": "https://github.com/robertoMaclean/resume"
     },
     {
-      "name": "Rob's Blog",
+      "name": "Blog de Rob",
       "isActive": true,
-      "description": "This is my personal blog that some day I fill with some information",
-      "highlights": ["In progress", "Jekyll"],
+      "description": "Este es mi blog personal que algún día rellenaré con información de mi interés",
+      "highlights": ["En progreso", "Jekyll"],
       "url": "https://rob-blog.netlify.app",
       "github": "https://github.com/robertoMaclean/robertoMaclean.github.io"
     },
     {
-      "name": "Rob Nes Resume",
+      "name": "Mi curriculum en estilo Nes",
       "isActive": true,
-      "description": "A version of my resume web page using nes front-end framework",
-      "highlights": ["Work history", "Nes framework", "HTML and CSS"],
+      "description": "Una versión de mi currículum utilizando un framework de nes",
+      "highlights": ["Curriculum", "Nes framework", "HTML y CSS"],
       "url": "https://rob-snes.netlify.app",
       "github": "https://github.com/robertoMaclean/snes-rob-page"
     },
     {
       "name": "Gif Expert App",
       "isActive": true,
-      "description": "A Gif page made with Fernando Herrera React course",
-      "highlights": ["Fernando Herrera", "Learning React"],
+      "description": "Una pagína para buscar Gifs realizada durante el curso de React de Fernando Herrera",
+      "highlights": ["Fernando Herrera", "Aprendiendo React"],
       "url": "https://gif-fernando-herrera-course.netlify.app"
     },
     {
       "name": "Motorcyclists Schedule",
-      "description": "Page to manage Motorcyclist scheduling",
+      "description": "Página para gestionar el horario de los Motociclistas (repartidores)",
       "highlights": ["HTML, CSS and Javascript"],
       "url": "https://motorcyclist-schedule.netlify.app",
       "github": "https://github.com/robertoMaclean/motorcyclists-schedule"
