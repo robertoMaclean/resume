@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Roberto Mac lean Manríquez",
-    "label": "Full-Stack developer with more than 5 years of experience",
+    "label": "Software Engineer with more than five years of experience",
     "image": "/me.webp",
     "email": "r.maclean.m@gmail.com",
     "phone": "+56 999453040",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "Roberto Mac lean Manríquez",
-        "url": "https://www.linkedin.com/in/roberto-mac-lean"
+        "url": "https://www.linkedin.com/in/roberto-maclean"
       },
       {
         "network": "GitHub",
@@ -35,20 +35,16 @@
       "endDate": null,
       "summary": "Development of backend applications for product dispatch to customers. In this job, I used technologies such as Java/Spring Boot/Serverless, Python/Serverless, JavaScript/Nest, Docker, K8S, Postgres, Oracle, MySQL, etc.",
       "url": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Bice Vida",
       "position": "Software Developer",
       "startDate": "2020-02-01",
       "endDate": "2022-05-31",
-      "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",       
+      "summary": "Developed microservices such as email sending using templates, ETL processes, service request management, validation for mortgage credit delivery processes, etc. During this period, Python was predominantly used as the programming language, with Java being used to a lesser extent. The infrastructure utilized AWS, leveraging frameworks such as Serverless and Terraform.",
       "url": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Valparaíso University",
@@ -57,103 +53,119 @@
       "endDate": "2020-01-31",
       "summary": "Developed a web application for the National Cancer Registry. Responsible for developing the logic for form loading, security using JWT, user profiles, and management, utilizing Java/Spring Boot. Also in charge of developing the front-end of the application using Angular.",
       "url": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     }
   ],
-  "education": [{
-    "institution": "Valparaíso University",
-    "url": "https://uv.cl",
-    "area": "Engineering in Computer Science. Specialization in Software Projects.",
-    "studyType": "Bachelor",
-    "startDate": "2010-03-01",
-    "endDate": "2018-02-01"
-  }],
-  "publications": [{
-    "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Software Engineering Course",
-    "publisher": "IEEE Access",
-    "releaseDate": "2018-10-18",
-    "url": "https://www.academia.edu/77007843/Exploring_Collaborative_Writing_of_User_Stories_With_Multimodal_Learning_Analytics_A_Case_Study_on_a_Software_Engineering_Course",
-    "summary": "Software engineering is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the software engineering’s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in software engineering students throughmultimodal learning analytics, modeling, and evaluating students’ collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veriﬁed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
-  }],
+  "education": [
+    {
+      "institution": "Valparaíso University",
+      "url": "https://uv.cl",
+      "area": "Engineering in Computer Science. Specialization in Software Projects.",
+      "studyType": "Bachelor",
+      "startDate": "2010-03-01",
+      "endDate": "2018-02-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Exploring Collaborative Writing of User Stories With Multimodal Learning Analytics: A Case Study on a Software Engineering Course",
+      "publisher": "IEEE Access",
+      "releaseDate": "2018-10-18",
+      "url": "https://www.academia.edu/77007843/Exploring_Collaborative_Writing_of_User_Stories_With_Multimodal_Learning_Analytics_A_Case_Study_on_a_Software_Engineering_Course",
+      "summary": "Software engineering is the application of principles used in engineering design, development,testing, deployment, and management of software systems. One of the software engineering’s approaches,highly used in new industries, is agile development. User stories are a commonly used notation to captureuser requirements in agile development. Nevertheless, for the elaboration of user stories, a high levelof collaboration with the client is necessary. This professional skill is rarely measured or evaluated ineducational contexts. The present work approaches collaboration in software engineering students throughmultimodal learning analytics, modeling, and evaluating students’ collaboration while they are writing userstories. For that, we used multidirectional microphones in order to derive social network analysis metricsrelated to collaboration (permanence and prompting) together with human-annotated information (qualityof the stories and productivity). Results show that groups with a lower productivity in writing user storiesand less professional experience in managing software requirements present a non-collaborative behaviormore frequently, and that teams with a fewer number of interventions are more likely to produce a greaternumber of user stories. Moreover, although low experience subjects produced more user stories, a greaterproductivity of the most experienced subjects was not statistically veriﬁed. We believe that these types of initiatives will allow the measurement and early development of such skills in university students"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend" 
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": ["Web development", "Backend"]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Master",
+      "keywords": ["Web development", "Backend", "Java Framework"]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["Web development", "Backend", "Java Framework"]
+    },
+    {
+      "name": "Flask",
+      "level": "Master",
+      "keywords": ["Web development", "Backend", "Python Framework"]
+    },
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": ["Web development", "Backend", "Cloud"]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
+      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
     },
     {
       "name": "Postgres",
       "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
+      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
+      "keywords": ["Version control", "Colaboración", "Source code"]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
+      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
     },
     {
       "name": "Nest",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -166,17 +178,18 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "Rob's Web Page",
@@ -206,10 +219,7 @@
       "name": "Rob's Blog",
       "isActive": true,
       "description": "This is my personal blog that some day I fill with some information",
-      "highlights": [
-        "In progress",
-        "Jekyll"
-      ],
+      "highlights": ["In progress", "Jekyll"],
       "url": "https://rob-blog.netlify.app",
       "github": "https://github.com/robertoMaclean/robertoMaclean.github.io"
     },
@@ -217,11 +227,7 @@
       "name": "Rob Nes Resume",
       "isActive": true,
       "description": "A version of my resume web page using nes front-end framework",
-      "highlights": [
-        "Work history",
-        "Nes framework",
-        "HTML and CSS"
-      ],
+      "highlights": ["Work history", "Nes framework", "HTML and CSS"],
       "url": "https://rob-snes.netlify.app",
       "github": "https://github.com/robertoMaclean/snes-rob-page"
     },
@@ -229,18 +235,13 @@
       "name": "Gif Expert App",
       "isActive": true,
       "description": "A Gif page made with Fernando Herrera React course",
-      "highlights": [
-        "Fernando Herrera",
-        "Learning React"
-      ],
+      "highlights": ["Fernando Herrera", "Learning React"],
       "url": "https://gif-fernando-herrera-course.netlify.app"
     },
     {
       "name": "Motorcyclists Schedule",
       "description": "Page to manage Motorcyclist scheduling",
-      "highlights": [
-        "HTML, CSS and Javascript"
-      ],
+      "highlights": ["HTML, CSS and Javascript"],
       "url": "https://motorcyclist-schedule.netlify.app",
       "github": "https://github.com/robertoMaclean/motorcyclists-schedule"
     }
