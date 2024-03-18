@@ -33,8 +33,8 @@
       "position": "Ingeniero de Software",
       "startDate": "2022-06-01",
       "endDate": null,
+      "url": "https://www.witi.cl",
       "summary": "Diseño e implementación de soluciones de Software para la parte logística de despacho a domicilio de un ecommerce. Algunas de las tecnologías utilizadas durante este periodo son Java/Kotlin/SpringBoot, Javascript/Nest, Oracle, Postgres, AWS, K8S, etc.",
-      "url": "",
       "highlights": ["Started the company"]
     },
     {
@@ -42,8 +42,8 @@
       "position": "Ingeniero de Software",
       "startDate": "2020-02-01",
       "endDate": "2022-05-31",
+      "url": "https://www.bicevida.cl",
       "summary": "Desarrollo de micro servicios tales como envíos de correos electrónicos utilizando templates, procesos de ETL, gestión de solicitudes de servicio, validación para proceso de entrega de créditos hipotecarios, etc. Durante este periodo se utilizó en su mayoría el lenguaje Python y en menor medida Java y como infraestructura se utilizó AWS mediante el uso de frameworks como Serverless y Terraform.",
-      "url": "",
       "highlights": ["Started the company"]
     },
     {
@@ -51,8 +51,8 @@
       "position": "Ingeniero de Software",
       "startDate": "2018-03-01",
       "endDate": "2020-01-31",
+      "url": "https://www.uv.cl",
       "summary": "Desarrollo de una aplicación web para el Registro Nacional del Cáncer. Encargado de desarrollar la lógica para la carga de formularios, seguridad mediante JWT, períles y gestión de usuarios, mediante el uso de Java/Spring-boot. También, a carío de desarrollar el Front-end de la aplicación mediante Angular.",
-      "url": "",
       "highlights": ["Started the company"]
     }
   ],
