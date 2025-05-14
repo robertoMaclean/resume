@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Roberto Mac lean Manríquez",
-    "label": "Ingeniero de Software con más de cinco años de experiencia",
+    "label": "Ingeniero de Software con más de siete años de experiencia",
     "image": "/me.webp",
     "email": "r.maclean.m@gmail.com",
     "phone": "+56 999453040",
@@ -32,10 +32,12 @@
       "name": "WITI",
       "position": "Ingeniero de Software",
       "startDate": "2022-06-01",
-      "endDate": null,
+      "endDate": "2025-03-31",
       "url": "https://www.witi.cl",
       "summary": "Diseño e implementación de soluciones de Software para la parte logística de despacho a domicilio de un ecommerce. Algunas de las tecnologías utilizadas durante este periodo son Java/Kotlin/SpringBoot, Javascript/Nest, Oracle, Postgres, AWS, K8S, etc.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "Bice Vida",
@@ -44,7 +46,9 @@
       "endDate": "2022-05-31",
       "url": "https://www.bicevida.cl",
       "summary": "Desarrollo de micro servicios tales como envíos de correos electrónicos utilizando templates, procesos de ETL, gestión de solicitudes de servicio, validación para proceso de entrega de créditos hipotecarios, etc. Durante este periodo se utilizó en su mayoría el lenguaje Python y en menor medida Java y como infraestructura se utilizó AWS mediante el uso de frameworks como Serverless y Terraform.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "Universidad de Valparaíso",
@@ -53,7 +57,9 @@
       "endDate": "2020-01-31",
       "url": "https://www.uv.cl",
       "summary": "Desarrollo de una aplicación web para el Registro Nacional del Cáncer. Encargado de desarrollar la lógica para la carga de formularios, seguridad mediante JWT, períles y gestión de usuarios, mediante el uso de Java/Spring-boot. También, a carío de desarrollar el Front-end de la aplicación mediante Angular.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "education": [
@@ -79,42 +85,72 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Web development", "Frontend"]
+      "keywords": [
+        "Web development",
+        "Frontend"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "Java",
       "level": "Master",
-      "keywords": ["Web development", "Backend"]
+      "keywords": [
+        "Web development",
+        "Backend"
+      ]
     },
     {
       "name": "SpringBoot",
       "level": "Master",
-      "keywords": ["Web development", "Backend", "Java Framework"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Java Framework"
+      ]
     },
     {
       "name": "Python",
       "level": "Master",
-      "keywords": ["Web development", "Backend", "Java Framework"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Java Framework"
+      ]
     },
     {
       "name": "Flask",
       "level": "Master",
-      "keywords": ["Web development", "Backend", "Python Framework"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Python Framework"
+      ]
     },
     {
       "name": "AWS",
       "level": "Master",
-      "keywords": ["Web development", "Backend", "Cloud"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "Cloud"
+      ]
     },
     {
       "name": "TypeScript",
@@ -129,27 +165,51 @@
     {
       "name": "Node",
       "level": "Advanced",
-      "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
+      "keywords": [
+        "Web development",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
-      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
+      ]
     },
     {
       "name": "Postgres",
       "level": "Advanced",
-      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Database",
+        "Backend"
+      ]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": ["Version control", "Colaboración", "Source code"]
+      "keywords": [
+        "Version control",
+        "Colaboración",
+        "Source code"
+      ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
-      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
+      "keywords": [
+        "Version control",
+        "Collaboration",
+        "Source code",
+        "Git"
+      ]
     },
     {
       "name": "Nest",
@@ -165,7 +225,12 @@
     {
       "name": "React",
       "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Web development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -181,7 +246,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -219,7 +287,10 @@
       "name": "Blog de Rob",
       "isActive": true,
       "description": "Este es mi blog personal que algún día rellenaré con información de mi interés",
-      "highlights": ["En progreso", "Jekyll"],
+      "highlights": [
+        "En progreso",
+        "Jekyll"
+      ],
       "url": "https://rob-blog.netlify.app",
       "github": "https://github.com/robertoMaclean/robertoMaclean.github.io"
     },
@@ -227,7 +298,11 @@
       "name": "Mi curriculum en estilo Nes",
       "isActive": true,
       "description": "Una versión de mi currículum utilizando un framework de nes",
-      "highlights": ["Curriculum", "Nes framework", "HTML y CSS"],
+      "highlights": [
+        "Curriculum",
+        "Nes framework",
+        "HTML y CSS"
+      ],
       "url": "https://rob-snes.netlify.app",
       "github": "https://github.com/robertoMaclean/snes-rob-page"
     },
@@ -235,13 +310,18 @@
       "name": "Gif Expert App",
       "isActive": true,
       "description": "Una pagína para buscar Gifs realizada durante el curso de React de Fernando Herrera",
-      "highlights": ["Fernando Herrera", "Aprendiendo React"],
+      "highlights": [
+        "Fernando Herrera",
+        "Aprendiendo React"
+      ],
       "url": "https://gif-fernando-herrera-course.netlify.app"
     },
     {
       "name": "Motorcyclists Schedule",
       "description": "Página para gestionar el horario de los Motociclistas (repartidores)",
-      "highlights": ["HTML, CSS and Javascript"],
+      "highlights": [
+        "HTML, CSS and Javascript"
+      ],
       "url": "https://motorcyclist-schedule.netlify.app",
       "github": "https://github.com/robertoMaclean/motorcyclists-schedule"
     }
